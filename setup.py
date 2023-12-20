@@ -4,7 +4,7 @@ from setuptools import find_packages, setup
 
 README = (Path(__file__).parent / "README.md").read_text()
 REQUIRES = [
-    "click>=7.1.1,<8.1.0",
+    "click>=8.1.2,<9.0",
     "requests>=2.20.0",
     "python-dotenv",
     "pyyaml>=5.3,<7.0",
