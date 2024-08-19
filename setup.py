@@ -8,7 +8,7 @@ REQUIRES = [
     "requests>=2.20.0",
     "python-dotenv",
     "pyyaml>=5.3,<7.0",
-    "Jinja2>=2.10.3,<3.1.0",
+    "Jinja2>=3.1.3,<4.0.0",
     "rich==10.16.2",
     "jsonschema==4.3.3",
 ]
