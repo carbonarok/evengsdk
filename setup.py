@@ -9,7 +9,7 @@ REQUIRES = [
     "python-dotenv",
     "pyyaml>=5.3,<7.0",
     "Jinja2>=3.1.3,<4.0.0",
-    "rich==10.16.2",
+    "rich==13.6.0",
     "jsonschema==4.3.3",
 ]
 
